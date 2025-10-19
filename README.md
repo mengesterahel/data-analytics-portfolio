@@ -22,6 +22,8 @@ Project 2: Titanic Survival Analysis Dashboard
 
 File: Titanic_Dashboard.xlsx
 Tools Used: Excel
+Screenshot: <img width="606" height="526" alt="Titanic_Dashboard" src="https://github.com/user-attachments/assets/b273ac20-315e-481e-a1fd-c7de85706a60" />
+
 
 Objective: Explore passenger demographics and survival rates on the Titanic.
 
