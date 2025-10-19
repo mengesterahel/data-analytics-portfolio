@@ -11,7 +11,7 @@ Tools Used: Looker Studio, BigQuery (SQL)
 Objective: Analyze average Medicare hospital payments across U.S. states to identify patterns and trends.
 
 Question 1: Which states have the highest average Medicare hospital payments?
-Answer: The chart highlights the top 10 states. Washington D.C. ranks highest, followed by California and New York.
+Answer: The chart highlights the top 10 states. Washington D.C. ranks highest, followed by California and Hawaii.
 
 Question 2: Is there a pattern between location and payment amount?
 Answer: Urban regions and the Northeast tend to have higher payments. Washington D.C. is the highest, reflecting concentrated healthcare spending.
