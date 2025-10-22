@@ -18,6 +18,7 @@ Answer: Urban regions and the Northeast tend to have higher payments. Washington
 
 Reflection: This project demonstrates my ability to clean, visualize, and interpret healthcare data.
 
+
 Project 2: Titanic Survival Analysis Dashboard
 
 File: Titanic_Dashboard.xlsx
