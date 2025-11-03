@@ -1,22 +1,16 @@
 Rahel Mengeste | Data Analytics Portfolio
 
-Hi! I’m Rahel, an aspiring data analyst with a background in healthcare and biology.
-This portfolio showcases my ability to analyze real-world datasets, create dashboards, and extract actionable insights.
+Hi, I’m **Rahel Mengeste** — a data analyst passionate about uncovering insights that drive smarter business decisions.  
+I enjoy transforming raw data into clear, actionable stories. This project reflects my ability to analyze and present data effectively using Excel dashboards.
 
-Project 1: Medicare Hospital Payments Dashboard
+# Sales Opportunity Dashboard (Excel)
+<img width="1370" height="614" alt="Screen Shot 2025-10-31 at 5 21 10 PM" src="https://github.com/user-attachments/assets/615ada84-2231-4869-9f8c-74ebe8618862" />
 
-File: Healthcare_Payments.pdf
-Tools Used: Looker Studio, BigQuery (SQL)
+## Project Overview
+This project is an interactive **Sales Opportunity Dashboard** built in Microsoft Excel.  
+It analyzes CRM data to track sales performance, deal stages, and total revenue.  
+The goal is to help business stakeholders quickly identify which sales stages and agents drive the most revenue.
 
-Objective: Analyze average Medicare hospital payments across U.S. states to identify patterns and trends.
-
-Question 1: Which states have the highest average Medicare hospital payments?
-Answer: The chart highlights the top 10 states. Washington D.C. ranks highest, followed by California and Hawaii.
-
-Question 2: Is there a pattern between location and payment amount?
-Answer: Urban regions and the Northeast tend to have higher payments. Washington D.C. is the highest, reflecting concentrated healthcare spending.
-
-Reflection: This project demonstrates my ability to clean, visualize, and interpret healthcare data.
 
 
 Project 2: Titanic Survival Analysis Dashboard
