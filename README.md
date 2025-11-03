@@ -4,7 +4,7 @@ Hi, I’m **Rahel Mengeste** — a data analyst passionate about uncovering insi
 I enjoy transforming raw data into clear, actionable stories. This project reflects my ability to analyze and present data effectively using Excel dashboards.
 
 # Sales Opportunity Dashboard (Excel)
-<img width="1370" height="614" alt="Screen Shot 2025-10-31 at 5 21 10 PM" src="https://github.com/user-attachments/assets/615ada84-2231-4869-9f8c-74ebe8618862" />
+![CF1AAF08-8EDB-43D5-AEF6-47E77C367DE1_1_105_c](https://github.com/user-attachments/assets/13a04270-1d7c-433c-ae53-0565203fcb90)
 
 ## Project Overview
 This project is an interactive **Sales Opportunity Dashboard** built in Microsoft Excel.  
