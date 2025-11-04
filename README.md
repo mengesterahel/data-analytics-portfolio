@@ -7,7 +7,7 @@ I enjoy transforming raw data into clear, actionable stories. This project refle
 ![CF1AAF08-8EDB-43D5-AEF6-47E77C367DE1_1_105_c](https://github.com/user-attachments/assets/13a04270-1d7c-433c-ae53-0565203fcb90)
 
 ## Project Overview
-This project is an interactive **Sales Opportunity Dashboa built in Microsoft Excel.  
+This project is an interactive **Sales Opportunity Dashboard built in Microsoft Excel.  
 It analyzes CRM data to track sales performance, deal stages, and total revenue.  
 The goal is to help business stakeholders quickly identify which sales stages and agents drive the most revenue.
 
