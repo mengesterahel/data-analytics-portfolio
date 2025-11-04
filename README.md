@@ -1,30 +1,74 @@
 Rahel Mengeste | Data Analytics Portfolio
-
+## 👋 About Me  
 Hi, I’m **Rahel Mengeste** — a data analyst passionate about uncovering insights that drive smarter business decisions.  
+With a background in biology and a growing skill set in **data analytics, visualization, and business intelligence**,  
 I enjoy transforming raw data into clear, actionable stories. This project reflects my ability to analyze and present data effectively using Excel dashboards.
 
 # Sales Opportunity Dashboard (Excel)
 ![CF1AAF08-8EDB-43D5-AEF6-47E77C367DE1_1_105_c](https://github.com/user-attachments/assets/13a04270-1d7c-433c-ae53-0565203fcb90)
 
-## Project Overview
-This project is an interactive **Sales Opportunity Dashboard built in Microsoft Excel.  
+---
+
+## 📁 Project Overview  
+This project is an interactive **Sales Opportunity Dashboard** built in Microsoft Excel.  
 It analyzes CRM data to track sales performance, deal stages, and total revenue.  
 The goal is to help business stakeholders quickly identify which sales stages and agents drive the most revenue.
 
+---
 
+## 🎯 Objectives  
+- Visualize total deals, total revenue, and win rate  
+- Compare performance across different sales stages (Engaging, Prospecting, Lost, Won)  
+- Identify top-performing sales agents by total revenue  
+- Demonstrate Excel data visualization and analysis skills  
 
-## Project 2: Titanic Survival Analysis Dashboard
+---
 
-File: Titanic_Dashboard.xlsx
-Tools Used: Excel
-Screenshot: <img width="1407" height="589" alt="Screen Shot 2025-11-04 at 12 05 06 PM" src="https://github.com/user-attachments/assets/4e4d9b72-0503-412e-8730-e776c02bcd88" />
+## 📂 Dataset  
+The dataset used for this project comes from a sample CRM system and includes the following columns:
 
+| Column | Description |
+|--------|--------------|
+| **Opportunity ID** | Unique identifier for each deal |
+| **Sales Agent** | Name of the sales representative |
+| **Product / Account** | Product or client associated with the opportunity |
+| **Stage** | Current stage of the deal (Engaging, Lost, Prospecting, Won) |
+| **Close Value** | Monetary value of the closed deal |
+| **Close Date** | Date when the opportunity was won or lost |
 
+---
 
-Objective: Explore passenger demographics and survival rates on the Titanic.
+## 📈 Dashboard Features  
+- **KPIs:** Displays Total Deals, Total Revenue, and Win Rate at the top  
+- **Pie Chart:** Visualizes deal distribution by stage  
+- **Bar Chart:** Shows revenue by sales agent  
+- **Interactive Layout:** Clean and organized dashboard for quick insights  
 
-Pivot tables and charts were used to analyze survival rates by gender and class.
+---
 
-Key trends and patterns were identified and visualized in a dashboard format.
+## 🧮 Key Insights  
+- **Total Deals:** 8,800  
+- **Total Revenue:** $10,005,534  
+- **Win Rate:** 48.20%  
+- The “Won” stage contributes nearly half of all opportunities, indicating strong conversion performance.  
 
-Reflection: This project highlights my Excel skills and ability to create interactive dashboards.
+---
+
+## 🛠️ Tools & Skills Used  
+- **Microsoft Excel**
+  - Pivot Tables & Charts  
+  - Data Cleaning  
+  - Dashboard Design & Formatting  
+- **Data Analysis**
+  - KPI creation  
+  - Aggregation & trend visualization  
+
+---
+
+## 💡 What I Learned  
+- How to clean and structure CRM datasets for reporting  
+- How to design visually appealing dashboards with consistent formatting  
+- How to calculate performance metrics (Win Rate, Total Revenue)  
+- How to communicate business insights through visualization  
+
+---
