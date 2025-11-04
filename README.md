@@ -13,7 +13,7 @@ The goal is to help business stakeholders quickly identify which sales stages an
 
 
 
-Project 2: Titanic Survival Analysis Dashboard
+## Project 2: Titanic Survival Analysis Dashboard
 
 File: Titanic_Dashboard.xlsx
 Tools Used: Excel
@@ -22,8 +22,6 @@ Screenshot: <img width="1407" height="589" alt="Screen Shot 2025-11-04 at 12 05 
 
 
 Objective: Explore passenger demographics and survival rates on the Titanic.
-
-Insights:
 
 Pivot tables and charts were used to analyze survival rates by gender and class.
 
